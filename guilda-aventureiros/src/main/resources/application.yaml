@@ -1,3 +1,6 @@
 spring:
   application:
     name: guilda-aventureiros
+
+server:
+  port: 8081
